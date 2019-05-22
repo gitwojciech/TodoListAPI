@@ -1,0 +1,13 @@
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\bin\Debug\netcoreapp2.2\TodoListWebAPICore.deps.json
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\bin\Debug\netcoreapp2.2\TodoListWebAPICore.runtimeconfig.json
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\bin\Debug\netcoreapp2.2\TodoListWebAPICore.runtimeconfig.dev.json
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\bin\Debug\netcoreapp2.2\TodoListWebAPICore.dll
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\bin\Debug\netcoreapp2.2\TodoListWebAPICore.pdb
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\obj\Debug\netcoreapp2.2\TodoListWebAPICore.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\obj\Debug\netcoreapp2.2\TodoListWebAPICore.RazorAssemblyInfo.cache
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\obj\Debug\netcoreapp2.2\TodoListWebAPICore.RazorAssemblyInfo.cs
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\obj\Debug\netcoreapp2.2\TodoListWebAPICore.AssemblyInfoInputs.cache
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\obj\Debug\netcoreapp2.2\TodoListWebAPICore.AssemblyInfo.cs
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\obj\Debug\netcoreapp2.2\TodoListWebAPICore.RazorTargetAssemblyInfo.cache
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\obj\Debug\netcoreapp2.2\TodoListWebAPICore.dll
+C:\Users\Wojtek\source\dotNetCoreRepo\TodoListWebAPICore\TodoListWebAPICore\obj\Debug\netcoreapp2.2\TodoListWebAPICore.pdb
